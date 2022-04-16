@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "5817103855667219575",
+		"blogger_id": "924129370170403983",
 		"api_key": "AIzaSyAkNe8x8ZaLce6clJxvNtG98-uIM5Lk8oE"
 	},
 	"custom": {
@@ -22,7 +22,7 @@
 		"onesignal_app_id": ""
 	},
 	"ads": {
-		"ad_status": "1",
+		"ad_status": "0",
 		"ad_type": "admob",
 		"admob_publisher_id": "pub-9734732209457742",
 		"admob_app_id": "ca-app-pub-9734732209457742~4827686620",
