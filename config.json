@@ -46,14 +46,14 @@
 		"onesignal_app_id": ""
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
-		"admob_publisher_id": "pub-9734732209457742",
-		"admob_app_id": "ca-app-pub-9734732209457742~4827686620",
-		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"admob_publisher_id": "pub-9231936977807136",
+		"admob_app_id": "ca-app-pub-9231936977807136~6395313925",
+		"admob_banner_unit_id": "0",
+		"admob_interstitial_unit_id": "ca-app-pub-9231936977807136/2350227322",
+		"admob_native_unit_id": "ca-app-pub-9231936977807136/1037145655",
+		"admob_app_open_ad_unit_id": "ca-app-pub-9231936977807136/1427989909",
 		"startapp_app_id": 210673973,
 		"unity_game_id": 0,
 		"unity_banner_placement_id": "banner",
@@ -64,6 +64,6 @@
 		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
 		"interstitial_ad_interval": 2,
 		"native_ad_interval": 10,
-		"native_ad_index": 1000
+		"native_ad_index": 5
 	}
 }
